@@ -1,4 +1,4 @@
 Hi! Welcome to my Web based Teaching Portfolio!! :)
 
-## Sequences Explanation video:
+## Week 1: Sequences Explanation video
 [Building a House with Alonzo](https://youtu.be/te4YiUhAkbU)
