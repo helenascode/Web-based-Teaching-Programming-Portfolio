@@ -8,3 +8,8 @@ Welcome! See below explanation videos I created throughout my time taking a CS t
 [Dancer Breaking Some Moves](https://youtu.be/OgXTxbeL-xs)
 
 [Animal Parade](https://youtu.be/OModlDZIwwk)
+
+## Week 3: Nested Repeats Explanation video
+[A Mouse Drawing An Octagon](https://youtu.be/3QBWCEv0j2o)
+
+## Week 4: Variables Explanation video
