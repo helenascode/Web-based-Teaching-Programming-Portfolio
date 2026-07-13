@@ -9,7 +9,8 @@ Welcome! See below explanation videos I created throughout my time taking a CS t
 
 [Animal Parade](https://youtu.be/OModlDZIwwk)
 
-## Week 3: Nested Repeats Explanation video
+## Week 3: Nested Repeats & Events Explanation video
 [A Mouse Drawing An Octagon](https://youtu.be/3QBWCEv0j2o)
+[Monkey Needs A Banana](https://youtu.be/xwUsMQYOJgk)
 
 ## Week 4: Variables Explanation video
