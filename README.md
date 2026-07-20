@@ -18,3 +18,6 @@ Welcome! See below explanation videos I created throughout my time taking a CS t
 
 ## Week 5: Conditional Loops Explanation Video
 [Football Game](https://youtu.be/bGpTGydocGw)
+
+## Week 6: If Statements Explanation Video
+[]()
