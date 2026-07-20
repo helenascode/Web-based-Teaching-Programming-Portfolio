@@ -20,4 +20,4 @@ Welcome! See below explanation videos I created throughout my time taking a CS t
 [Football Game](https://youtu.be/bGpTGydocGw)
 
 ## Week 6: If Statements Explanation Video
-[]()
+[Target Ball Game](https://youtu.be/09NFG6Mi3nE)
